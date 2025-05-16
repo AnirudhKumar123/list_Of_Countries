@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walmart_Assesment</string>
+    <string name="errormessage">An error message occured</string>
+    <string name="error_message">An error has occured</string>
+</resources>
